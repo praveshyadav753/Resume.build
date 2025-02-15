@@ -17,7 +17,7 @@ import PersonalDetPage from "./components/Pages/PersonalDetPage";
 const resumeData = {
   name: "Pravesh Yadav",
   location: "Indore, Madhya Pradesh 452020",
-  phone: "+91-6261508896",
+  phone: "+91-6261568895",
   email: "praveshydv.p@gmail.com",
   linkedin: "https://www.linkedin.com/in/pravesh-yadav-36b611a1",
   github: "https://github.com/praveshyadav753",
@@ -34,10 +34,9 @@ function App() {
 
   return (
     <>
-      {/* <div ref={componentRef}>helo mrs</div> */}
 
-      <div className="border m-auto w-[210mm] shadow-2xl ">
-        <div ref={componentRef} className="p-5 w-[210mm] m-auto ">
+      <div className="border m-auto w-full sm:w-[210mm] shadow-2xl ">
+        <div ref={componentRef} className="p-5 pt-0 w-[210mm] m-auto ">
           <div className="mb-3">
           <div className="relative w-full h-[20px] bg-emerald-950 overflow-visible">
             {/* Triangle extending outside */}
