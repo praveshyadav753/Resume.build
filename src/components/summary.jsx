@@ -7,7 +7,7 @@ export const Summary = () => {
         Summary
       </h2>
       <p className=" text-gray-700 text-justify leading-relaxed pb-4">
-      Detail-oriented React Developer with full-stack expertise in building scalable applications. Proficient in React.js, Python, Django, and MongoDB, with strong skills in RESTful APIs and JWT authentication. Focused on performance optimization, modern UI frameworks like Tailwind CSS, and deployment on Vercel/Railway.
+      Detail-oriented React Developer with full-stack expertise in building scalable applications. Proficient in React.js, Python, Django,  with strong skills in RESTful APIs and JWT authentication. Focused on performance optimization, modern UI frameworks like Tailwind CSS, and deployment on Vercel/Railway.
       </p>
     </div>
   );
