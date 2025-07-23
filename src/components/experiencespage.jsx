@@ -4,7 +4,7 @@ const experiences = [
     {
       title: "MERN Stack Developer Intern",
       company: "Annova Solutions",
-      duration: "01/2024 - Present",
+      duration: "01/2024 - 03/2024",
       location: "Indore, India",
       bulletPoints: [
        "Constructed responsive service booking and registration interfaces utilizing React.js for enhanced user experience.",
