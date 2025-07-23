@@ -9,7 +9,7 @@ const experiences = [
       bulletPoints: [
        "Constructed responsive service booking and registration interfaces utilizing React.js for enhanced user experience.",
 "Developed RESTful APIs to ensure secure data management.",
-"Designed and implemented comprehensive role-based access controls for Admin, Customer, and Business Partner roles, ensuring secure and appropriate permissions for each user type."     
+"Designed and implemented comprehensive role-based access controls for Admin, Customer, and Business Partner roles, ensuring secure and appropriate permissions for each user type." ,    
 "Managed service data storage and retrieval using Mysql.",
 "Utilized Redux toolkit for efficient state management.",
 "Established robust login security with JWT integration.",
