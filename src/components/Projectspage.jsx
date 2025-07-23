@@ -10,7 +10,7 @@ const projectData = [
       "Implemented a barcode scanning feature to fetch product details instantly.",
       "Designed a personalized recommendation system based on user preferences",
       "Built a Django-powered backend with structured data storage and retrieval.",
-      "Established robust login security with JWT/Auth0 integration.",
+      "Established robust login security with JWT integration.",
       "Created a responsive UI with React.js & CSS for seamless user experience"
     ],
     links: [
