@@ -4,7 +4,7 @@ const educationData = [
     {
       institution: "Medi-Caps University",
       location: "Indore, Madhya Pradesh, India",
-      duration: "Expected in 07/2025",
+      duration: "2021-2025",
       degree: "B.Tech - Information Technology",
       cgpa: "8.3",
     },
