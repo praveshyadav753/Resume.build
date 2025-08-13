@@ -2,13 +2,13 @@ import React from 'react'
 import { Experience } from './summary';
 const experiences = [
     {
-      title: "MERN Stack Developer Intern",
+      title: "Fullstack Developer Intern",
       company: "Annova Solutions",
       duration: "01/2024 - 03/2024",
       location: "Indore, India",
       bulletPoints: [
-       "Constructed responsive service booking and registration interfaces utilizing React.js for enhanced user experience.",
-"Developed RESTful APIs to ensure secure data management.",
+"Designed and implemented responsive service booking and registration platforms with React.js frontend and Django (Python) backend integration.",
+"Developed RESTful APIs to ensure secure data management in DJango.",
 "Designed and implemented comprehensive role-based access controls for Admin, Customer, and Business Partner roles, ensuring secure and appropriate permissions for each user type." ,    
 "Managed service data storage and retrieval using Mysql.",
 "Utilized Redux toolkit for efficient state management.",
