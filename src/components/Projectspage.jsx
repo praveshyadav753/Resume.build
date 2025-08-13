@@ -26,7 +26,7 @@ const projectData = [
   },
     {
       name: "ParkIt",
-      technology: "HTML, CSS, javascript, EasyOCR, YOLOv5",
+      technology: "HTML, CSS, javascript, Python, EasyOCR, YOLOv5",
       bulletPoints: [
         "Developed a web-based car parking management system that automates parking operations",
         "Integrated real-time monitoring and a dashboard for administrators to track occupancy rates and manage parking spaces.",
