@@ -13,7 +13,7 @@ const educationData = [
       location: "Indore",
       duration: "2021",
       degree: "12th",
-      percentage: "84",
+      percentage: "85",
     },
     {
       institution: "Ideal Public School",
